@@ -3,6 +3,7 @@ This is a simple and bloat-free header-only threadpool library. C++17.
 
 It uses concurrent queue and as less blocking code as it's possible.
 
+![CmakeCI](https://github.com/tort-dla-psa/thrp/workflows/CmakeCI/badge.svg)
 ## Usage
 Basic usage would look like that:
 ```c++
